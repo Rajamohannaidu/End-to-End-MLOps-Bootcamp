@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/125851475412875905/1d2104ff19d6479f91cbc461917dacf0/artifacts
+end_time: 1764421108763
+entry_point_name: ''
+experiment_id: '125851475412875905'
+lifecycle_stage: active
+run_id: 1d2104ff19d6479f91cbc461917dacf0
+run_name: delicate-deer-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764420820115
+status: 3
+tags: []
+user_id: mohan

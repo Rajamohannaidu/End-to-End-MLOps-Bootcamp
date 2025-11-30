@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239606077870098144/f6d85109169b4ff28cac0eaa4577db71/artifacts
+end_time: 1764252355366
+entry_point_name: ''
+experiment_id: '239606077870098144'
+lifecycle_stage: active
+run_id: f6d85109169b4ff28cac0eaa4577db71
+run_name: adaptable-ant-866
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764252350758
+status: 3
+tags: []
+user_id: mohan

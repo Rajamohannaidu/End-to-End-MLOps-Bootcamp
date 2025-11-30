@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AIML/MLOPS/End-to-End%20MLOps%20Bootcamp/MLFlow/MLproject/mlruns/0/5ecb2af8072047b393ac24ee9cb335fd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5ecb2af8072047b393ac24ee9cb335fd
+run_name: rogue-hawk-742
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764308058837
+status: 1
+tags: []
+user_id: mohan

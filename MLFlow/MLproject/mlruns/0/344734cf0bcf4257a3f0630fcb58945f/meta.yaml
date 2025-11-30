@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AIML/MLOPS/End-to-End%20MLOps%20Bootcamp/MLFlow/MLproject/mlruns/0/344734cf0bcf4257a3f0630fcb58945f/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 344734cf0bcf4257a3f0630fcb58945f
+run_name: beautiful-gull-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764419964408
+status: 1
+tags: []
+user_id: mohan

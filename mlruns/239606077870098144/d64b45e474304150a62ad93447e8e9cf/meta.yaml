@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239606077870098144/d64b45e474304150a62ad93447e8e9cf/artifacts
+end_time: 1764305498315
+entry_point_name: ''
+experiment_id: '239606077870098144'
+lifecycle_stage: active
+run_id: d64b45e474304150a62ad93447e8e9cf
+run_name: powerful-slug-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764305494683
+status: 3
+tags: []
+user_id: mohan

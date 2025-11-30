@@ -1,0 +1,10 @@
+artifact_location: file:///d:/AIML/MLOPS/End-to-End%20MLOps%20Bootcamp/MLFlow/DLMLFLOW/mlruns/573092670092488845/models/m-a15b38e1c6b14fefbba99f9ddd6a365f/artifacts
+creation_timestamp: 1764487014178
+experiment_id: '573092670092488845'
+last_updated_timestamp: 1764487051056
+model_id: m-a15b38e1c6b14fefbba99f9ddd6a365f
+model_type: null
+name: model
+source_run_id: b283103d8fe54e539969419e66ab7cdc
+status: 2
+status_message: null

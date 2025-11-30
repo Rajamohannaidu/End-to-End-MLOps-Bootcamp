@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239606077870098144/365f04b68faf45818581f534d9c9edc9/artifacts
+end_time: 1764305485900
+entry_point_name: ''
+experiment_id: '239606077870098144'
+lifecycle_stage: active
+run_id: 365f04b68faf45818581f534d9c9edc9
+run_name: grandiose-tern-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764305465919
+status: 3
+tags: []
+user_id: mohan

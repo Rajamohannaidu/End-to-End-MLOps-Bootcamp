@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/239606077870098144/6d15f2db682b4e06ab34708cf623d71d/artifacts
+end_time: 1764305489833
+entry_point_name: ''
+experiment_id: '239606077870098144'
+lifecycle_stage: active
+run_id: 6d15f2db682b4e06ab34708cf623d71d
+run_name: upset-sheep-827
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764305486071
+status: 3
+tags: []
+user_id: mohan

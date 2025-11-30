@@ -1,0 +1,15 @@
+creation_timestamp: 1764487208568
+current_stage: None
+deployment_job_state: null
+description: ''
+last_updated_timestamp: 1764487208568
+model_id: m-237cdc0649db4d3c9b1c5a8f9af673fd
+name: finalmodel
+run_id: 269000aff23a48129be109b55513492a
+run_link: ''
+source: models:/m-237cdc0649db4d3c9b1c5a8f9af673fd
+status: READY
+status_message: null
+storage_location: file:///d:/AIML/MLOPS/End-to-End%20MLOps%20Bootcamp/MLFlow/DLMLFLOW/mlruns/573092670092488845/models/m-237cdc0649db4d3c9b1c5a8f9af673fd/artifacts
+user_id: null
+version: 1

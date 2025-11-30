@@ -1,0 +1,14 @@
+artifact_uri: file:///d:/AIML/MLOPS/End-to-End%20MLOps%20Bootcamp/MLFlow/DLMLFLOW/mlruns/573092670092488845/0d0b25ddff2049a391219e98a87ee8af/artifacts
+end_time: 1764486705227
+entry_point_name: ''
+experiment_id: '573092670092488845'
+lifecycle_stage: active
+run_id: 0d0b25ddff2049a391219e98a87ee8af
+run_name: sneaky-boar-887
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764486705148
+status: 4
+tags: []
+user_id: mohan

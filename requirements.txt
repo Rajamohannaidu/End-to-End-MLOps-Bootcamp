@@ -1,2 +1,9 @@
 ipykernel
 numpy
+flask
+pandas
+mlflow
+scikit-learn
+keras
+tensorflow
+hyperopt

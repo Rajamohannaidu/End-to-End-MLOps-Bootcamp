@@ -1,0 +1,15 @@
+creation_timestamp: 1764487405802
+current_stage: None
+deployment_job_state: null
+description: null
+last_updated_timestamp: 1764487405802
+model_id: m-077ca81d426643fa9d4cca2801b32669
+name: wine-quality
+run_id: c29658adbcb04fae83c21460d579a9ce
+run_link: null
+source: models:/m-077ca81d426643fa9d4cca2801b32669
+status: READY
+status_message: null
+storage_location: file:///d:/AIML/MLOPS/End-to-End%20MLOps%20Bootcamp/MLFlow/DLMLFLOW/mlruns/573092670092488845/models/m-077ca81d426643fa9d4cca2801b32669/artifacts
+user_id: null
+version: 1

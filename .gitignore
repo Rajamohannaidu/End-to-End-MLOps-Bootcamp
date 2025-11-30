@@ -3,3 +3,10 @@ mlruns/
 MLFlow/DLMLFLOW/mlruns/
 mlartifacts/
 "mlartifacts/" 
+
+5b52cf6f7f29075e51b190807ea1930d20ff4af4 mlartifacts/239606077870098144/models/m-3d49c7f6451e41149c839de4ecd61bed/artifacts/model.pkl/
+945defea0d1cee2948e9927f65e57ab73c584d2b mlartifacts/239606077870098144/models/m-8b3442211f874e41a8240297ab315675/artifacts/model.pkl/
+dbecca322375c7add896ead2beb3c21e02440d4e mlartifacts/239606077870098144/models/m-9ae42f2f3fe14031b13345a67ffc86aa/artifacts/model.pkl/
+a7de8125bb2062cd20b851bfe24e9485d0b9fe26 mlartifacts/239606077870098144/models/m-bc999d06aa844a919140130d5f4b4402/artifacts/model.pkl/
+06ad2f3ad56f5b5a85ee179df2c31979dbfacbd6 mlartifacts/125851475412875905/models/m-e84a5155c22e4b829c31a625effdb7b7/artifacts/model.pkl/
+

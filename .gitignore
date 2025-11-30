@@ -1,2 +1,5 @@
 venv/
 mlruns/
+MLFlow/DLMLFLOW/mlruns/
+mlartifacts/
+"mlartifacts/" 
